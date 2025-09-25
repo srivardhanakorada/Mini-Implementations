@@ -3,3 +3,5 @@
 2. Logistic Regression
 3. Linear Regression
 4. KNN
+5. FFN
+6. CNN
